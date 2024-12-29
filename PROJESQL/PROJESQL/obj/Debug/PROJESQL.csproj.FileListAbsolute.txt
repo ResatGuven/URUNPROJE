@@ -1,0 +1,10 @@
+C:\Users\Reşat\source\repos\PROJESQL\PROJESQL\obj\Debug\PROJESQL.csproj.AssemblyReference.cache
+C:\Users\Reşat\source\repos\PROJESQL\PROJESQL\obj\Debug\PROJESQL.Form1.resources
+C:\Users\Reşat\source\repos\PROJESQL\PROJESQL\obj\Debug\PROJESQL.Properties.Resources.resources
+C:\Users\Reşat\source\repos\PROJESQL\PROJESQL\obj\Debug\PROJESQL.csproj.GenerateResource.cache
+C:\Users\Reşat\source\repos\PROJESQL\PROJESQL\obj\Debug\PROJESQL.csproj.CoreCompileInputs.cache
+C:\Users\Reşat\source\repos\PROJESQL\PROJESQL\bin\Debug\PROJESQL.exe.config
+C:\Users\Reşat\source\repos\PROJESQL\PROJESQL\bin\Debug\PROJESQL.exe
+C:\Users\Reşat\source\repos\PROJESQL\PROJESQL\bin\Debug\PROJESQL.pdb
+C:\Users\Reşat\source\repos\PROJESQL\PROJESQL\obj\Debug\PROJESQL.exe
+C:\Users\Reşat\source\repos\PROJESQL\PROJESQL\obj\Debug\PROJESQL.pdb
